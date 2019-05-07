@@ -4,4 +4,4 @@ ADO.NET Disconnected mimariyi kullanarak, sınıf arkadaşım Mehmet Ertürk ile
 
 Yunus Emre Ertürk ve Mehmet Ertürk ortak projesidir.
 
-NOT:Herhangi bir akrabalıgımız yoktur :)
+NOT:Herhangi bir akrabalığımız yoktur :)
